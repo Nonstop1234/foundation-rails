@@ -437,7 +437,7 @@ Tooltip.defaults = {
    * @option
    * @example 12
    */
-  hOffset: 12
+  hOffset: 12,
   /**
    * Allow HTML in tooltip. Warning: If you are loading user-generated content into tooltips,
    * allowing HTML may open yourself up to XSS attacks.
